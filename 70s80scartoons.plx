@@ -1,0 +1,130 @@
+#######################################################################################################################################
+<poster>MorePower</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+    <message>Some of the best 70s and 80s Cartoons</message>
+    <thumbnail> http://i39.tinypic.com/28hpgyp.jpg</thumbnail>
+</info>
+#######################################################################################################################################
+<item>
+    <title>CARTOON EXPRESS PROMO</title>
+    <link>http://www.youtube.com/watch?v=wP0b4cLf_dc</link>
+    <thumbnail> </thumbnail>
+    </item>
+<dir>
+<name>The Amazing Chan and the Chan Clan </name>
+<link>http://raw.githubusercontent.com/ilovemymac/playlist/master/chanclan.xml</link>
+</thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/ALF_Animated_Series.png</thumbnail>
+</dir>
+<dir>
+<name>M.A.S.K. Mobile Armored Strike Kommand (1985-1986)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/MASK.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/71117-2.jpg</thumbnail>
+</dir>
+<dir>
+<name>ALF the Animated Series </name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/alf.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7c/ALF_Animated_Series.png</thumbnail>
+</dir>
+<dir>
+<name>Disney's Adventures of the Gummy Bears (1985-1991)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/gummybears.xml</link>
+<thumbnail>http://hollywoodhatesme.files.wordpress.com/2012/04/gummi-bears.jpg</thumbnail>
+</dir>
+<dir>
+<name>Flying House (1982)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/flyinghouse.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/215331-1.jpg</thumbnail>
+</dir>
+<dir>
+<name>SuperBook (1981)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/superbook1.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/80604-1.jpg</thumbnail>
+</dir>
+<dir>
+<name>He-Man and the Masters of the Universe (1983-1985)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/hemanlist.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/73014-3.jpg</thumbnail>
+</dir>
+<dir>
+<name>Josie and the Pussycats in Outer Space (1972)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/josiespace.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/78116-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The New Adventures of Batman (1977)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/batman.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b4/New_Adventures_of_Batman_logo.jpg</thumbnail>
+</dir>
+<dir>
+<name>The New Scooby Doo Movies (1977)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/scoobydoomovies.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/75661-3.jpg</thumbnail>
+</dir>
+<dir>
+<name>Scooby Doo Direct to Video Movies</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/scoobydoovideo.xml</link>
+<thumbnail>http://www.pagesz.net/blog/wp-content/uploads/2014/01/scooby1.jpg</thumbnail>
+</dir>
+<dir>
+<name>Superfriends 1973</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/Superfriends.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/c0/Super_Friends.jpg</thumbnail>
+</dir>
+<dir>
+<name>All new Superfriends </name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/allnewsuperfriends.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/c0/Super_Friends.jpg</thumbnail>
+</dir>
+<dir>
+<name>Superfriends 1978</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/superfriends1978.xml</link>
+<thumbnail>http://farm4.staticflickr.com/3400/3259220247_ddbc5609f8_z.jpg?zz=1</thumbnail>
+</dir>
+<dir>
+<name>Challenge of the Superfriends (1978)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/challengesuperfriends.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/76837-2.jpg</thumbnail>
+</dir>
+<dir>
+<name>Super Friends: The Legendary Super Powers Show</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/superfriendssuperpowers.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/30/Super_Friends_The_Legendary_Super_Powers_Show.jpg</thumbnail>
+</dir>
+<dir>
+<name>Saber Rider and the Star Sheriffs (1987-1988)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/saberrider.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/cf/Saber_Rider_and_the_Star_Sheriffs.jpg</thumbnail>
+</dir>
+<dir>
+<name>Silverhawks (1986)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/silverhawks.xml</link>
+<thumbnail>http://levelsave.com/wp-content/uploads/2012/06/silverhawks-show.jpg</thumbnail>
+</dir>
+<dir>
+<name>Shirt Tales (1982)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/shirttales.xml</link>
+<thumbnail>http://i106.photobucket.com/albums/m276/justking81/Articles/aaa368f7.jpg</thumbnail>
+</dir>
+<dir>
+<name>She-Ra: Princess of Power (1985-1986)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/shera.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/73015-2.jpg</thumbnail>
+</dir>
+<dir>
+<name>Teenage Mutant Ninja Turtles (1987-1996)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/tmnt.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/74582-5.jpg</thumbnail>
+</dir>
+<dir>
+<name>Transformers (1984-1991)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/transformers.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/72499-4.jpg</thumbnail>
+</dir>
+<dir>
+<name>Voltron: Defender of the Universe  (1984)</name>
+<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/voltronlist.xml</link>
+<thumbnail>http://thetvdb.com/banners/_cache/posters/78646-1.jpg</thumbnail>
+</dir>
