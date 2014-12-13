@@ -11,10 +11,22 @@
 
 <directories>
 	
-	<name>[COLOR=FF0198E1]AWESOME 80s Movies WORK IN PROGRESS LINKS DOWN [/COLOR]</name>
-	<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/80sMovies.xml</link>
-	<thumbnail>http://images.sodahead.com/polls/004132525/160130812_The_80s_xlarge.gif</thumbnail>
 
+	<name>MorePower Main PL Temp</name>
+	<link>http://www.navixtreme.com/playlist/143754/all_1080p_dd5.1_movies_hq_even_3d_requests_taken_morepower.plx</link>
+	<thumbnail> </thumbnail>
+
+
+	<name>Christmas</name>
+	<link>http://www.navixtreme.com/playlist/81229/family_christmas_specials_movies_morepower.plx</link>
+	<thumbnail> </thumbnail>
+
+ 
+
+
+
+<item><title> </title>
+<link> </link><thumbnail> </thumbnail></item>  
 	<name>[COLOR=FF0198E1]Classic 70s and 80s TV[/COLOR]</name>
 	<link>https://raw.githubusercontent.com/ilovemymac/playlist/master/classic80stv.xml</link>
 	<thumbnail>http://www.thegreat80s.com/images/TV/80s-TV-Shows.jpg</thumbnail>
