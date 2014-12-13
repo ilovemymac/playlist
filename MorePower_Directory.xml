@@ -17,12 +17,13 @@
 	<thumbnail> </thumbnail>
 
 
-	<name>Christmas</name>
+	<name>Family Christmas</name>
 	<link>http://www.navixtreme.com/playlist/81229/family_christmas_specials_movies_morepower.plx</link>
-	<thumbnail> </thumbnail>
+	<thumbnail>http://www.rickety.us/wp-content/uploads/2009/12/Temple_Square_photowalk.jpg</thumbnail>
 
- 
-
+ <name>Complete Elvis Collection</name>
+<link>http://www.navixtreme.com/playlist/137580/elvis_complete_movie_collection_morepower.plx</link>
+<thumbnail>http://wildgoo.com/mag1/Magnets%20Movie%20Poster%20Type/Elvis%20Presley%20movie%20posters%20%231.jpg</thumbnail>
 
 
 <item><title> </title>
@@ -109,8 +110,5 @@
 	<link>http://github.com/ilovemymac/playlist/raw/master/halloween.xml</link>
 	<thumbnail>http://rfrpodcast.com/blog/wp-content/uploads/2011/09/Universal-halloween-horror-nights-2011.jpg</thumbnail>
 
-	<name>Family Christmas</name>
-	<link>http://github.com/ilovemymac/playlist/raw/master/christmas.xml</link>
-	<thumbnail> </thumbnail>
 
 </directories>
